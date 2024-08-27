@@ -20,7 +20,7 @@ for i in range(12):
 auto.press('enter') # aperta o enter
 auto.write('brunofluna')
 auto.press('enter')
-auto.write('R@fael1050')
+auto.write('senha')
 auto.press('enter')
 
 
